@@ -1,0 +1,5 @@
+/* select all of .group1 siblings */
+main > div > div {
+    font-size: 20px;
+    background-color: blueviolet;
+}
